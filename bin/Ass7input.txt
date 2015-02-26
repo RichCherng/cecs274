@@ -1,0 +1,17 @@
+3
+1
+10
+20
+3
+0
+10
+15
+3
+x
+apple
+madam
+4
+apple
+pear
+orange
+y

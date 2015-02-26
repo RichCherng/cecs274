@@ -1,0 +1,36 @@
+The input filename is: C:\TEMP\CECS274AssignmentOne.txt
+
+The original data is:
+0.malayalam
+1.word
+2.apple
+3.neveroddoreven
+4.c
+5.cc
+6.banana
+
+The sorted data is:
+0.apple
+1.banana
+2.c
+3.cc
+4.malayalam
+5.neveroddoreven
+6.word
+
+The value at index 3 in the original data is: neveroddoreven
+
+The reversed list is: 
+malayalam becomes malayalam
+word becomes drow
+apple becomes elppa
+neveroddoreven becomes neveroddoreven
+c becomes c
+cc becomes cc
+banana becomes ananab
+
+The palindromes are: 
+malayalam
+neveroddoreven
+c
+cc
